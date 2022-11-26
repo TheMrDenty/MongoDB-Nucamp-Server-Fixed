@@ -1,1 +1,3 @@
 node_modules
+bi/server.cert
+bin/server.key
